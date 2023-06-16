@@ -5,6 +5,9 @@
 Check me out on [LinkedIn](https://www.linkedin.com/in/koladeadelaiye/)
 
 
+![My Profile picture.](https://freepngimg.com/thumb/web_development/7-2-web-development-png-pic.png)
+
+
 ## SKILLS ##
 ```
 * Problem-solving
@@ -31,6 +34,4 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/koladeadelaiye/)
 * Microsoft Office Suite, Adobe Suite
 
 ```
-
-![My Profile picture.](https://freepngimg.com/thumb/web_development/7-2-web-development-png-pic.png)
 
